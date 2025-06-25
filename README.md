@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, meu nome é Isadora👋
 
-<!--
-**isabcc/isabcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu cantinho no GitHub! Este é o meu perfil, onde vou começar a guardar meus projetos e aprendizados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Quem sou eu?
+
+* Estou começando a aprender sobre progrmação focada em linguagem c e c++.
+* Iniciei a faculdade recentemente, ainda sou iniciante nessa área.
+* Sou apaixonada por música e jogos.
+
+---
+
+## 🌱 O que você vai encontrar por aqui?
+
+* **Projetos de Estudo:** Repositórios com os trabalhos e códigos que estou desenvolvendo nas minhas disciplinas.
+* **Meus Projetos Pessoais:** Talvez alguns pequenos projetos que eu crie por diversão ou para aprender algo novo.
+* **Anotações e Materiais:** Coisas que me ajudam a estudar e que podem ser úteis para outras pessoas também!
+
+---
+
+
+*Este é um espaço em que ainda está em crescimento* 
